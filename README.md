@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yosefone212@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1xZmmjkhKjI-GU-O-w_vJchj5stv8z32E/view?usp=sharing](https://drive.google.com/file/d/1xZmmjkhKjI-GU-O-w_vJchj5stv8z32E/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xZmmjkhKjI-GU-O-w_vJchj5stv8z32E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
