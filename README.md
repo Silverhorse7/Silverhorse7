@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Graduation Project!**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **DevOps**
 
 - 💬 Ask me about **competitive programming**
 
