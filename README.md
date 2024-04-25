@@ -3,12 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=silverhorse7" alt="silverhorse7" /></a> </p>
 
-- 🔭 I’m currently working on **Graduation Project!**
-
-- 🌱 I’m currently learning **DevOps**
-
-- 💬 Ask me about **competitive programming**
-
 - 📫 How to reach me **yosefone212@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1xZmmjkhKjI-GU-O-w_vJchj5stv8z32E/view?usp=sharing)
