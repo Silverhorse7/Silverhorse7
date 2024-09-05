@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yosef Madboly</h1>
-<h3 align="center">ICPC Qualifier | ACPC & ECPC Bronze Medalist | Master @Codeforces</h3>
+<h3 align="center">ICPC Finalist | ACPC & ECPC Bronze Medalist | Master @Codeforces</h3>
 
 
 - 📫 How to reach me **yosefone212@gmail.com**
